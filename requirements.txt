@@ -1,0 +1,10 @@
+chromadb
+python-dotenv
+groq
+langchain
+langchain-chroma
+langchain-community
+docx2txt
+nltk
+sentence-transformers
+rank-bm25
